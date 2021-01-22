@@ -43,8 +43,5 @@ print ('''\033[1;31m  / _ \ | '_ ` _ \| | '_ \ / _ \| |_| |/ _` |/ __| |/ /''')
 print ('''\033[1;31m / ___ \| | | | | | | | | | (_) |  _  | (_| | (__|   < ''')
 print ('''\033[1;31m/_/   \_\_| |_| |_|_|_| |_|\___/|_| |_|\__,_|\___|_|\_\ ''')
 
-print ('1)Hack Group')
-
-
-print ('\033[1;33m❥---{Group link}~~➽')
-print ('\033[1;31mShould bash install.sh')
+input ('\033[1;33m❥---{Enter to install UwU}~~➽')
+system('bash ~/Hack-Amino-Groups/open.sh')
